@@ -11,7 +11,7 @@ public class ObstacleSpawner : MonoBehaviour
 
    [Header("Bonus")]
    [SerializeField] GameObject bonusPrefab;
-   [SerializeField] float timeToBonus = 5f;
+   [SerializeField] float timeToBonus = 5.5f;
    [SerializeField] float timeBetweenBonus = 10f;
 
    [Header("Timers")]
