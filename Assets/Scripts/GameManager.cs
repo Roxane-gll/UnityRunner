@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] ObstacleSpawner obstacleSpawner;
     int timeToLevel = 100;
-   int timeBetweenLevel = 100;
+   int timeBetweenLevel = 150;
 
    public int bonus = 0;
 
